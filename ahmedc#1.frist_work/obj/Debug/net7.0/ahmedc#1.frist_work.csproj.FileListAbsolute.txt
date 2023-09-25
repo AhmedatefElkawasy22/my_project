@@ -1,0 +1,14 @@
+E:\VS file\ahmedc#1\ahmedc#1.frist_work\bin\Debug\net7.0\ahmedc#1.frist_work.exe
+E:\VS file\ahmedc#1\ahmedc#1.frist_work\bin\Debug\net7.0\ahmedc#1.frist_work.deps.json
+E:\VS file\ahmedc#1\ahmedc#1.frist_work\bin\Debug\net7.0\ahmedc#1.frist_work.runtimeconfig.json
+E:\VS file\ahmedc#1\ahmedc#1.frist_work\bin\Debug\net7.0\ahmedc#1.frist_work.dll
+E:\VS file\ahmedc#1\ahmedc#1.frist_work\bin\Debug\net7.0\ahmedc#1.frist_work.pdb
+E:\VS file\ahmedc#1\ahmedc#1.frist_work\obj\Debug\net7.0\ahmedc#1.frist_work.GeneratedMSBuildEditorConfig.editorconfig
+E:\VS file\ahmedc#1\ahmedc#1.frist_work\obj\Debug\net7.0\ahmedc#1.frist_work.AssemblyInfoInputs.cache
+E:\VS file\ahmedc#1\ahmedc#1.frist_work\obj\Debug\net7.0\ahmedc#1.frist_work.AssemblyInfo.cs
+E:\VS file\ahmedc#1\ahmedc#1.frist_work\obj\Debug\net7.0\ahmedc#1.frist_work.csproj.CoreCompileInputs.cache
+E:\VS file\ahmedc#1\ahmedc#1.frist_work\obj\Debug\net7.0\ahmedc#1.frist_work.dll
+E:\VS file\ahmedc#1\ahmedc#1.frist_work\obj\Debug\net7.0\refint\ahmedc#1.frist_work.dll
+E:\VS file\ahmedc#1\ahmedc#1.frist_work\obj\Debug\net7.0\ahmedc#1.frist_work.pdb
+E:\VS file\ahmedc#1\ahmedc#1.frist_work\obj\Debug\net7.0\ahmedc#1.frist_work.genruntimeconfig.cache
+E:\VS file\ahmedc#1\ahmedc#1.frist_work\obj\Debug\net7.0\ref\ahmedc#1.frist_work.dll
